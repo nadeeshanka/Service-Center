@@ -1,0 +1,113 @@
+
+#pre1{
+    float: right;
+}
+#form1{
+    float: right;
+}
+#footer{
+    text-align:center
+}
+#pre2{
+    float:right;
+    font-size: 30px; 
+}
+.nav-link{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+}
+#pre1{
+    font-weight: bold;
+   
+}
+#complain{width: 200px}
+/*-----for border----*/
+.container{
+	 padding:10px;
+}
+
+
+
+.col-sm-6 .float-left
+{
+	opacity: 0.8;
+	padding:5px;
+}
+.form-horizontal 
+{
+	max-width:700px;
+	
+	padding:10px;
+	margin:0 auto;
+	border-radius:0.5em;
+	background-color:white;
+	
+}
+
+.form-horizontal h2
+{
+	font-family: 'Open Sans' , sans-serif;
+	font-size:40px;
+	font-weight:600;
+	color:#976654;
+	margin-top:3%;
+	text-align:left;
+	text-transform:uppercase;
+	letter-spacing:5px;
+}
+
+.form-inline
+{
+	padding:5px;
+}
+    
+   
+.form-inline .col-sm-3
+{
+	
+	display: inline-block;
+	text-align: left;
+	padding:5px;
+	 float: left;
+  width: 25%;
+  margin-top: 10px;
+
+}
+
+.form-inline .form-control
+{
+  background: rgb(230, 230, 250) ;
+  border: 1px solid silver;
+  border-radius: 4px;
+  font-size: 14px;
+  max-width: 500px;
+  padding:5px;
+ border-collapse:1000px;
+  
+}
+
+.form-inline .col-sm-9
+{
+	padding:10px;
+			
+}
+
+span.req {
+    color:red;
+    font-size: 112%;
+}
+
+.form-horizontal .btn .btn-primary
+{
+	width:120px; 
+	padding:10px;
+}
+
+
+
+.row .col-sm-6
+{
+	padding:10px;
+}
+
+

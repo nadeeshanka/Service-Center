@@ -1,0 +1,54 @@
+#error{
+    font-size: 18px;
+    color: red;
+}
+#topic{
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#subtopic{
+    text-align: center;
+  
+    font-size: 25px;
+}
+#space{
+	padding-top: 50px;
+}
+#sheet{
+    padding: 20px;
+
+}
+#part2{
+    padding-left:50px;
+    
+    font-size: 18px;
+
+}
+#part1 {
+    font-weight: bold;
+    font-size: 18px;
+  }
+#part3 {
+   
+    padding-left: 10px;
+    font-size: 18px;
+  }
+
+#part4{
+    padding-left:10px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+#footer{
+    text-align:center ;
+}
+
+#pre1{
+    float:right;
+    font-size: 20px; 
+ }

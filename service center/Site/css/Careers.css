@@ -1,0 +1,36 @@
+.navy{
+	background: #ffffff;
+}
+.space{
+	padding-top: 50px;
+}
+.top{
+	padding-top: 35px;
+	font-size: 45px;
+    color: #1a237e ;
+    text-align: center;
+    text-transform: uppercase;
+   
+}
+#pre1{
+    float: right;
+}
+#form1{
+    float: right;
+}
+#footer{
+    text-align:center
+}
+#pre2{
+    float:right;
+    font-size: 30px; 
+}
+.nav-link{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+}
+#pre1{
+    font-weight: bold;
+   
+}
+#complain{width: 200px}

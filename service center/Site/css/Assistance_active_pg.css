@@ -1,0 +1,66 @@
+
+#pre1{
+    float: right;
+}
+#form1{
+    float: right;
+}
+#footer{
+    text-align:center
+}
+#pre2{
+    float:right;
+    font-size: 30px; 
+}
+.nav-link{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+}
+#pre1{
+    font-weight: bold;
+   
+}
+#complain{width: 200px}
+.container h2
+{
+	font-family: 'Open Sans' , sans-serif;
+	font-size:40px;
+	font-weight:600;
+	color:#311b92;
+	margin-top:1%;
+	margin-bottom:5%;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	
+}
+
+.container h5
+{
+	font-family: 'Open Sans' , sans-serif;
+	font-size:20px;
+	font-weight:600;
+	color:#546e7a;
+	margin-bottom:5%;
+	text-align:center;
+	letter-spacing:2px;
+	
+}
+
+.row .col-sm-3{
+	padding: 20px 20px;
+	color:#000000;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+
+.row .col-sm-4{
+	padding: 20px 20px;
+	color:#000000;
+	border-radius: 10px 10px 10px 10px;
+	
+}
+
+.col-sm-3 p{
+	padding:5px;
+}

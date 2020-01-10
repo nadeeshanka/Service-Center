@@ -1,0 +1,98 @@
+
+#page{
+	background-image:url("../img/complain.jpg");
+    background-repeat:no-repeat;
+    background-position:relative; 
+    background-size:auto;
+    padding:10px;
+}
+}
+}
+
+.container{
+  background:rgb(255, 255, 255) none repeat scroll 0 0;
+  border-radius:10px; 
+  padding: 20px 50px 0px 50px;
+  margin: 10px auto 30px;
+  text-align: center;
+  
+}
+
+.card{
+height: auto;
+margin-top: auto;
+margin-bottom: auto;
+width: 700px;
+background-color: #ffffff ;
+ border-radius: 7px;
+ border: 2px solid indigo;
+}
+
+.card-header{
+	background-color: #757575;
+	 border-radius: 7px;
+	  
+}
+
+.card-header h3{
+color: white;
+}
+
+
+.form-inline .col-sm-5
+{
+	
+	display: inline-block;
+	text-align: left;
+	padding:5px;
+	 float: left;
+	width: 25%;
+	margin-top: 10px;
+	font-family: 'Numans', sans-serif;
+
+}
+
+.col-sm-7 .form-control
+{
+	padding:10px;
+	width:100%;
+			
+}
+
+
+.form-inline .form-control
+{
+  border: 1px solid silver;
+  border-radius: 4px;
+  font-size: 14px;
+  max-width: 500px;
+  padding:5px;
+  border-collapse:1000px;
+  margin-top:10px;
+   margin-bottom:10px;
+}
+.space {
+	padding: 20px;
+}
+
+#msg1,#msg2,#msg3,.error,.error1{
+
+	color:red;
+	font-style: italic;
+
+}
+
+
+#submit {
+  width:120px; 
+}
+#reset {
+  width:120px; 
+}
+
+#msg4,#msg6{
+  color:rgb(213, 30, 219);
+  font-style: italic;
+  text-align:right;
+
+}

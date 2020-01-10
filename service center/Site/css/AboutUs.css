@@ -1,0 +1,87 @@
+#pre1{
+    float: right;
+}
+#form1{
+    float: right;
+}
+#footer{
+    text-align:center
+}
+#pre2{
+    float:right;
+    font-size: 30px; 
+	color:#976654;
+}
+.nav-link{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+}
+#pre1{
+    font-weight: bold;
+   
+}
+#complain{width: 200px}
+
+.aboutus{
+	background-color:#e0e0e0;
+}
+
+.aboutus-section {
+    padding: 20px 0;
+}
+.aboutus-title {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 15px;
+    text-transform: uppercase;
+    color:#1c2a48;
+}
+
+.aboutus-text {
+    color: #212121;
+	 font-size: 15px;
+    margin: 15px;
+}
+
+.vision{
+   background-color:rgba(121, 85, 72, 0.3);
+	width:655px;
+	height:100px;
+	border-radius:10px;
+}
+
+.vision h5{
+	margin:10px;
+	color:#d50000;
+}
+
+.vision p{
+	margin:15px;
+}
+	
+.mission{
+   background-color:rgba(244, 67, 54, 0.3);
+	width:655px;
+	height:100px;
+	border-radius:10px;
+}
+
+.mission h5{
+	margin:10px;
+	color:#d50000;
+}
+
+.mission p{
+	margin:15px;
+}
+
+.value{
+	 background-color:rgba(76, 175, 80, 0.3);
+	 border-radius:10px;
+}
+
+.value h5{
+	margin:10px;
+	color:#d50000;
+}

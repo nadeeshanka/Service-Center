@@ -1,0 +1,32 @@
+.card{
+height: auto;
+margin-top: 40px;
+margin-bottom: auto;
+margin-left: 60px;
+padding-left: 10px;
+width: 400px;
+background-color: rgba(0,0,0,0.1) ;
+}
+
+#pre1{
+    float: right;
+}
+#form1{
+    float: right;
+}
+#footer{
+    text-align:center
+}
+#pre2{
+    float:right;
+    font-size: 30px; 
+}
+.nav-link{
+    color: rgb(46, 44, 44);
+    font-weight: bold;
+}
+#pre1{
+    font-weight: bold;
+   
+}
+#complain{width: 200px}

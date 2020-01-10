@@ -1,0 +1,14 @@
+#profile{ 
+    background-image:url("../img/ProfileBackground.png"); 
+    background-repeat:no-repeat;
+    background-position:center; 
+
+    padding:10px;
+  }
+
+
+
+#list-group {
+  padding-left:20px;
+}
+

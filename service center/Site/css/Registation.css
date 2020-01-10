@@ -1,0 +1,144 @@
+
+#footer{
+  color:rgb(43, 14, 110);
+  font-size:20px;
+  float:center;
+}
+
+#RegistationForm{
+	background-image:url("../img/regi.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:auto;
+	background-position:center;
+}
+
+
+.container{
+
+     margin-top: 50px;
+	 margin-bottom: 100px;
+}
+
+.form-horizontal 
+{
+	max-width:700px;
+	padding:10px;
+	margin:0 auto;
+	border-radius:0.5em;
+	background-color:white;
+	
+}
+
+.form-horizontal h2
+{
+	font-family: 'Open Sans' , sans-serif;
+	font-size:40px;
+	font-weight:600;
+	color:#976654;
+	margin-top:3%;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:5px;
+}
+
+ .col-sm-6 .btn-danger{
+	 margin-left:170px;
+ }   
+   
+.form-inline .col-sm-3
+{
+	
+	display: inline-block;
+	text-align: left;
+	padding:5px;
+	 float: left;
+	width: 25%;
+	margin-top: 10px;
+
+}
+
+.form-inline .form-control
+{
+  background: rgb(230, 230, 250) ;
+  border: 1px solid silver;
+  border-radius: 4px;
+  font-size: 14px;
+  max-width: 500px;
+  padding:5px;
+  border-collapse:1000px;
+  
+}
+
+.col-sm-9{
+	padding:5px;
+}
+
+.col-sm-9 .form-control
+{
+	padding:10px;
+	width: 90%;
+			
+}
+
+.form-horizontal .btn .btn-danger
+{
+	width:1200px;
+	padding:10px;	
+}
+
+.form-horizontal .btn .btn-primary
+{
+	width:120px; 
+	padding:10px;
+}
+
+
+/* The message box is shown when the user clicks on the password field */
+#message {
+    display:none;
+    background:#d0d6e2;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 350px;
+	float:right;
+}
+
+#message p {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.msg{
+		width:420px;
+	padding:10px;
+}
+
+.msg h3{
+	font-size: 18px;
+}
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    left: -35px;
+}
+
+
+
+
+  

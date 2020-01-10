@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+    <script src="bootstrap/jquery.min.js"></script>
+    <script src="bootstrap/popper.min.js"></script>
+    <script src="bootstrap/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="bootstrap/css/all.css">
+
+    <title>Branch Manager</title>
+    <link rel="stylesheet" type="text/css" href="css/admin.css">
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row header">
+      <div class="col-sm-9 bg-light">
+        <img src="img/slogo.png" class="float-left" style="width:350px;height: 70px;">
+      </div>
+      <div  class="col-sm-3 bg-light">
+        <form id="form1" class="form-inline" action="admin_find.php"  method="post">
+          <div class="input-group">
+            <input class="form-control" type="text" placeholder="Full SER Number..." name="find" required>
+            <div class="input-group-btn">
+              <button class="btn btn-danger" type="submit" name="btnfind" value="Search"><i class="fas fa-search"></i></button>
+            </div>
+          </div>
+          <div id="space">  </div>    
+        <div >
+        <a href="../login.php"> <span style="font-size: 30px; color:blue;">
+          <i class="fas fa-sign-out-alt"></i>
+        </span></a>
+      </div>
+      </form> 
+      </div>
+    </div>
+  </div>
+  
+  <div class="container-fluid" >
+    <div class="row content">
+      <div class="col-sm-2 bg-light">
+        <div class="card" style="width:auto;">
+          <img class="card-img-top" src="img/user.png" >
+          <div class="card-body">
+            <h4 class="card-title"><b>Branch Manager</b></h4>
+            <pre class="card-text">Name:  W.Manamperi<br>Post:  Brunch manager<br/>Shop:  Galle-A</pre> 
+          </div>
+        </div>
+        <div class="card" style="width:auto;height: 220px;">
+          <h4 class="links">Quick Links</h4>
+          <ul class="nav flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.singersl.com " target="_blank"><i class="fas fa-external-link-alt"></i><h7 class="text-danger"> SINGER<small class="text-primary">Srilanka</small></h7></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="D:\Project\Bootstrap\Site\index.html" target="_blank"><i class="fas fa-external-link-alt"></i><h7 class="text-danger"> SINGER<small class="text-primary">Service</small></h7></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="http://www.singerfinance.com" target="_blank"><i class="fas fa-external-link-alt"></i><h7 class="text-danger"> SINGER<small class="text-primary">Finance</small></h7></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.google.lk/maps/@6.9218386,79.8562055,13z" target="_blank"><span style="color: rgb(24, 177, 19);"><i class="fas fa-map-marked-alt"></i></span> Locations</a>
+            </li>
+          </ul>
+        </div>
+        
+			</div>
+ 
+      <div class="col-sm-10 ">
+        <div class="container-fluid text-center">
+          <br>
+          <br>
+          <div class="row ">
+            <div class="col-sm-4">
+              <a href="JobDetails.php"> <span style="font-size: 70px; color: rgb(255, 101, 30);">
+              <i class="fas fa-wrench"></i></span>
+              <h4>JOB Details</h4></a>
+              <p>View Details and current situation</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="admin_Replacement.php"><span style="font-size: 70px; color: rgb(103, 106, 107);">
+              <i class="fas fa-cart-plus"></i></span>
+              <h4>Replacements</h4></a>
+              <p>Replacement details of products</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="admin_Feedback.php"><span style="font-size: 70px; color:rgb(13, 216, 80);">
+              <i class="fas fa-comment-dots"></i></span>
+              <h4>Feedbacks</h4></a>
+              <p>View customers comments</p>
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid text-center">
+          <br>
+          <br>
+          <br>
+          <div class="row">
+            <div class="col-sm-4">
+              <a href="admin_History.php"><span style="font-size: 70px; color: rgb(145, 14, 127);">
+              <i class="fas fa-boxes"></i></span>
+              <h4>Products</h4></a>
+              <p>view History and updates of products</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="admin_Customer.php"><span style="font-size: 70px;color: rgb(1, 12, 17);">
+              <i class="fas fa-users"></i></span>
+              <h4>Customers</h4></a>
+              <p>Details of customers</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="admin_Backlist.php"><span style="font-size: 70px;color: rgb(243, 49, 58);">
+              <i class="fas fa-user-lock"></i></span>
+              <h4>Blacklist</h4></a>
+              <p>List of bad customers</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row footer" >
+      <div class="col-sm-7 ">
+        <h4 id="footer" >Powered by<small class="text-danger"> SINGER(PLC)</small></h4>
+      </div>   
+      <div class="col-sm-5">         
+        <pre id="pre1" ><i class="fab fa-facebook-square"></i>  <i class="fab fa-twitter"></i>  <i class="fab fa-youtube"></i>  <i class="fab fa-skype"></i></pre>    
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

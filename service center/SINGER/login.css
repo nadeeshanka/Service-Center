@@ -1,0 +1,57 @@
+#LoginForm{ 
+    background-image:url("img/pyrus-management.jpg"); 
+    background-repeat:no-repeat;
+    background-position:center; 
+    background-size:1550px 950px;
+    padding:10px;
+}
+
+
+ #main{
+  background:rgb(255, 255, 255) none repeat scroll 0 0;
+  border-radius:10px; 
+  padding: 50px 70px 20px 70px;
+  margin: 10px auto 30px;
+  text-align: center;
+ }
+
+
+
+#inputusername,#inputPassword {
+  background: rgb(248, 246, 246) none repeat scroll 0 0;
+  border: 1px solid silver;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+  
+}
+
+.forgot {
+  color:rgb(145, 143, 143);
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+
+.btn.btn-primary {
+  width:120px; 
+}
+.btn.btn-danger {
+  width:120px; 
+}
+
+#field-icon {
+  float: right;
+  margin-right: 25px;
+  margin-top: -30px;
+  position: relative;
+  
+}
+.error{
+  color: red;
+  text-align:right;
+}

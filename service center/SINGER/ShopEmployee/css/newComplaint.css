@@ -1,0 +1,64 @@
+
+#footer{
+    text-align:right ;
+}
+.links{
+    text-align:center ;
+
+   
+}
+
+.card-title,#bottom{
+    text-align:center ;
+}
+
+#pre1{
+   float:right;
+   font-size: 20px; 
+}
+.footer {background-color:rgb(210, 230, 252);}
+
+.card-title{
+    color: rgb(104, 104, 104);
+}
+#p1{
+    font-weight: bold;
+	color:rgb(150,0,70);
+}
+#btn
+{
+   text-align:center;
+}
+#msg1,#msg2,#msg3,#msg5,.e1,.e2,.error1,.error2,.err3,.error5{
+	color:red;
+	font-style: italic;
+
+
+}
+
+
+#submit {
+  width:120px; 
+}
+#reset {
+  width:120px; 
+}
+
+.err1,.err2,.error4{
+  color:rgb(213, 30, 219);
+  font-style: italic;
+
+}
+
+#space{
+  padding-left: 20px;
+}
+#space1{
+  padding: 20px;
+}
+#form1{
+    padding: 10px;
+    text-align: right; 
+}
+#space2{
+  padding: 5px;

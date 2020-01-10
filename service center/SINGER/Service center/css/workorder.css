@@ -1,0 +1,42 @@
+#error{
+    text-align: center;
+}
+#topic{
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+#space{
+	padding-top: 50px;
+}
+#sheet{
+    padding: 20px;
+
+}
+#part2{
+    padding: 10px;
+
+}
+#part1 {
+    font-weight: bold;
+    padding: 10px;
+  }
+
+ 
+
+#footer{
+    text-align:center ;
+}
+
+#pre1{
+    float:right;
+    font-size: 20px; 
+ }
+ #form1{
+    padding: 10px;
+    text-align: right; 
+}
+#space{
+  padding-left: 20px;
+}

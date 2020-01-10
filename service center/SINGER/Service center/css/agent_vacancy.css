@@ -1,0 +1,32 @@
+
+#footer{
+    text-align:right ;
+}
+}
+
+.card-title{
+    text-align:center ;
+}
+
+#pre1{
+   float:right;
+   font-size: 20px; 
+}
+.footer {
+  background-color:rgb(210, 230, 252);
+}
+
+.card-title{
+    color: rgb(104, 104, 104);
+}
+#p1{
+    font-weight: bold;
+	color:rgb(150,0,70);
+	}
+#space{
+	padding: 10px;
+}
+#form{
+   background-color:rgb(255,255,155);
+   border-radius:10px; 
+  }

@@ -1,0 +1,49 @@
+#status_check{ 
+    background-image:url("../img/status_check.jpg"); 
+    background-repeat:no-repeat;
+    background-position:relative; 
+    background-size:cover;
+    padding:10px;
+}
+
+
+ #main{
+  background:rgb(255, 255, 255) none repeat scroll 0 0;
+  border-radius:10px; 
+  padding: 20px 50px 0px 50px;
+  margin: 10px auto 30px;
+  text-align: center;
+  
+ }
+
+
+
+#inputno{
+  background: rgb(248, 246, 246) none repeat scroll 0 0;
+  border: 1px solid silver;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 40px;
+  line-height: 40px;
+  
+}
+
+
+.btn.btn-danger {
+  width:120px; 
+}
+#bottom,#footer{
+  text-align:center;
+}
+.error{
+  color:red;
+  font-style: italic;
+  
+}
+#msg{
+  text-align: center;
+}
+.space{
+  padding: 10px;
+}
+
