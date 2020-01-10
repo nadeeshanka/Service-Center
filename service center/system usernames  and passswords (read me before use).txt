@@ -1,0 +1,17 @@
+branch manager
+	username:wasanthama
+	password:Admin123
+
+
+branch assistant
+	username:Assistant1
+	password:Assistant123
+
+ALL service center(can login one by one)
+	username:center id (ex UNA001,HIR001)
+	password:clerk123
+
+ALL service agents
+
+	username:email (ex-supunlakmal@gmail.com)
+	password:agent123
